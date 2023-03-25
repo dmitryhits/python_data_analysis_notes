@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "python_data_analysis_notes"
+  site-url: "https://dmitryhits.github.io/python_data_analysis_notes"
+  description: "A collection of notebooks with notes on using of python, lumpy, and pandas for data analysis"
+  repo-branch: main
+  repo-url: "https://github.com/dmitryhits/python_data_analysis_notes"
